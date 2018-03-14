@@ -1,7 +1,7 @@
 # Asp.Net WebAPI Core oAuth2 Google Authentication example
 
 This is how to use Google Identity in Asp.Net WebAPI Core using cookie based authentication.
-This can be used very easily with any JS framework (AngularJS, React, VueJS, ...).
+This can be used very easily with any JS framework (Angular, React, Vue, ...).
 
 Follow [Microsoft documentation](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?tabs=aspnetcore2x) to configure Google API credentials then fill ClientId and ClientSecret in Startup.cs.
 
